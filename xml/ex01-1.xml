@@ -1,0 +1,7 @@
+  <?xml version="1.0" encoding="WINDOWS-1251"?>
+  <?xml-stylesheet type='text/xsl' href='ex01-1.xsl'?>
+  <tutorial>
+  <title>"Заметки об XSL"</title>
+  <author>Леонов Игорь Васильевич</author>
+  <my-tag>Беспалов Андрей Владимирович</my-tag>
+  </tutorial>

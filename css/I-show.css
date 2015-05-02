@@ -1,0 +1,38 @@
+BODY {  background-color: #515151;		
+               background-attachment: fixed;
+               background-repeat: repeat;
+               margin: 30;
+            }
+		
+
+P.smallstrings {
+	color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: justify;
+	margin: 1em;
+}
+
+
+P.smallstringsright {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: right;
+	margin: 1em;
+	text-align: right
+}
+
+P.smallstringsleft {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: left;
+	margin: 1em;
+	text-align: right
+}
+
+.show { color: White;
+                font-weight: bold; 
+                letter-spacing: 0.1em  }
+            
