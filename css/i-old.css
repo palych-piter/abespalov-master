@@ -1,0 +1,149 @@
+BODY {  background-image: url('http://palych.csbi.ru/images/bg1.gif' );		
+               background-attachment: fixed;
+               background-repeat: repeat;
+              }
+		
+
+P.titlestrings {
+color : #999966;
+ font-family: Times; 
+ font-size: 15pt;
+ font-weight: bold;
+ text-transform: uppercase; 
+ text-align: right;  
+line-height: 1.8;
+                 }
+				 				 
+P.bigstrings {
+	color : #cccccc;
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 1.8;
+	margin: 3em;
+}
+
+P.smallstrings {
+	color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: justify;
+	margin: 1em;
+}
+
+
+P.smallstringsright {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: right;
+	margin: 1em;
+	text-align: right
+}
+
+P.smallstringsleft {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: left;
+	margin: 1em;
+	text-align: left
+}
+
+
+P.smallstringscenter {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: left;
+	margin: 1em;
+	text-align: center
+}
+
+
+IMG.smallimagesleft {float: left; 
+                       margin: 2em }
+
+IMG.smallimagesright {float: right;
+                        margin: 2em } 
+
+a{
+text-decoration:none;
+}
+
+
+A.externallink         {color: #999966;
+                                  text-decoration:none;}
+A.externallink:Visited {color: #666666;}
+A.externallink:Active  {color: #ffffff;}
+A.externallink:Hover   {color: }
+
+A.internallink         {color: #cccccc;
+                                 text-decoration:none;}
+A.internallink:Visited {color: #666666;}
+A.internallink:Active  {color: #ffffff;}
+A.internallink:Hover   {color: }
+
+A.maillink              {color: #999966;
+                                  text-decoration:none;}
+A.maillink:Visited {color: #666666;}
+A.maillink:Active  {color: #ffffff;}
+A.maillink:Hover   {color: }
+
+
+A.imagelink         {color: #000000;
+                              text-decoration:none;}
+A.imagelink:Visited {color: #000000;}
+A.imagelink:Active  {color: #000000;}
+A.imagelink:Hover   {color: }
+
+A.fotolink              {color: #999966; text-decoration:none; font-weight: bold; font-family: Arial;
+	font-size: 10pt;}
+A.fotolink:Visited {color: #666666; font-weight: bold; font-family: Arial;
+	font-size: 10pt;}
+A.fotolink:Active  {color: #ffffff; font-weight: bold; font-family: Arial;
+	font-size: 10pt;}
+A.fotolink:Hover   {color: }
+
+
+
+#aa {POSITION: absolute; z-index: 10; LEFT: 4; TOP: 0}
+#bb {POSITION: absolute; z-index: 11; LEFT: 678; TOP: 35}
+#cc {POSITION: absolute; z-index: 12; LEFT: 294; TOP: 70}
+#dd {POSITION: absolute; z-index: 13; LEFT: 4; TOP: 85}
+#ee {POSITION: absolute; z-index: 14; LEFT: 10; TOP: 110}
+
+.names { font-weight: bold; 
+                letter-spacing: 0.1em;
+                color: #999966  }
+				
+.namestitle { color: White;
+                font-weight: bold; 
+	letter-spacing: 0.1em  }
+
+.newstitle { font-weight: bold; 
+                letter-spacing: 0.1em;
+                color: #ccff33  }
+
+.newstitlesmall { font-weight: bold; 
+                letter-spacing: 0.1em;
+				font-size: 10pt; 
+                color: #ccff33  }
+
+.bigstrings { color : #cccccc;
+	    font-family: Arial;
+   	font-size: 12pt;
+	font-weight: bold;
+	line-height: 1.8;
+	margin: 3em;
+}
+
+
+.smallstringsleft {
+color : #999999;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: left;
+	margin: 1em;
+	text-align: right
+}            

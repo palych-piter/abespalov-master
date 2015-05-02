@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<?xml-stylesheet type='text/xsl' href='groups.xsl'?>
+
+  <tutorial>
+  <enimals>
+    <groups>
+    <groupsCaption>Группы</groupsCaption>
+    <groupsCaptionName>Название</groupsCaptionName>
+
+    <group>
+    <groupName>Banco De Gaia</groupName>
+    </group>
+
+    <group>
+    <groupName>Afro Celt</groupName>
+    </group>
+	
+    </groups>
+  </enimals>
+  </tutorial>
